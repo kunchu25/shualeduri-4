@@ -1,0 +1,38 @@
+body {
+    background-color:#404eed; 
+    color: white; 
+    font-family: Arial, sans-serif; 
+    margin: 0; 
+    padding: 20px; 
+  }
+  
+  header {
+    text-align: center; 
+  }
+  
+  main {
+    max-width: 800px; 
+    margin: 0 auto; 
+  }
+  
+  p {
+    font-size: 18px; 
+    line-height: 1.6; }
+
+.my div {
+position: relative;
+z-index: 1;
+width: 320%;
+color: rgb(0,0,0);
+box-sizing: border-box;
+display: block;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+height: 112px;
+line-height: 18.4px;
+-webkit-box-direction: normal;
+
+
+
+}
